@@ -1,4 +1,4 @@
-/* PawID public site — palette matches app/lib/core/theme/app_colors.dart, so the
+/* Snoutbook public site — palette matches app/lib/core/theme/app_colors.dart, so the
    policy page and the app look like the same product. Single stylesheet, no
    external fonts or CDN: a store reviewer opening this on a slow connection
    should get the text instantly, and a blocked font host must never be able to
